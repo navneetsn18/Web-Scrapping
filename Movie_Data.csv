@@ -1,0 +1,698 @@
+,Movie,Day of Release,Language
+0,Out Of Order,30 apr,English
+1,Coolie No 1,1 may,Hindi
+2,The Wretched,1 may,English
+3,Bhoomi,1 may,Tamil
+4,Soorarai Pottru,1 may,Tamil
+5,Hobuchandra Raja Gobuchandra Mantri,1 may,Bengali
+6,Dracula Sir,1 may,Bengali
+7,Dil Bechara,8 may,Hindi
+8,Shakuntala Devi,8 may,Hindi
+9,Legally Blonde 3,8 may,English
+10,Krack,8 may,Telugu
+11,The Lovebirds,15 may,English
+12,Spiral,15 may,English
+13,The Woman In The Window,15 may,English
+14,Laxmmi Bomb,22 may,Hindi
+15,Radhe,22 may,Hindi
+16,The SpongeBob Movie: Sponge on the Run,22 may,English
+17,Johaar,22 may,Telugu
+18,Ombatthane Dikku,22 may,Kannada
+19,Artemis Fowl,29 may,English
+20,Romantic,29 may,Telugu
+21,Nikamma,5 jun,Hindi
+22,Indoo Ki Jawani,5 jun,Hindi
+23,Medium Spicy,5 jun,Marathi
+24,Belashuru,5 jun,Bengali
+25,Chhalaang,12 jun,Hindi
+26,Khaali Peeli,12 jun,Hindi
+27,Virgin Bhanupriya,12 jun,Hindi
+28,Candyman,12 jun,English
+29,Puaada,12 jun,Punjabi
+30,Minions: The Rise of Gru,19 jun,English
+31,Thalaivi,26 jun,"Hindi, "
+32,Top Gun: Maverick,26 jun,"Hindi, "
+33,Bunty Aur Babli 2,26 jun,Hindi
+34,Phatte Dinde Chakk Punjabi,26 jun,Punjabi
+35,Jodi (Punjabi),26 jun,Punjabi
+36,Shershaah,3 jul,Hindi
+37,Saroj Ka Rishta,3 jul,Hindi
+38,Free Guy,3 jul,English
+39,Rowdy Baby,3 jul,Kannada
+40,Sadak 2,10 jul,Hindi
+41,Heropanti 2,16 jul,Hindi
+42,Madam Chief Minister,17 jul,Hindi
+43,Tenet,17 jul,"Hindi, "
+44,Shamshera,31 jul,Hindi
+45,Bhool Bhulaiyaa 2,31 jul,Hindi
+46,Ananya,31 jul,Marathi
+47,The Empty Man,7 aug,English
+48,Infinite,7 aug,English
+49,Bhuj: The Pride of India,14 aug,Hindi
+50,Wonder Woman 1984,14 aug,"Hindi, "
+51,Hungama 2,14 aug,Hindi
+52,The One and Only Ivan,14 aug,English
+53,Malignant,14 aug,English
+54,Nobody,14 aug,English
+55,Golondaaj,14 aug,Bengali
+56,Jersey (Hindi),28 aug,Hindi
+57,Gangubai Kathiawadi,11 sep,Hindi
+58,The Conjuring 3: The Devil Made Me Do It,11 sep,English
+59,Toofan,18 sep,Hindi
+60,Haseen Dillruba,18 sep,Hindi
+61,The King's Man,18 sep,English
+62,Without Remorse,20 sep,English
+63,Many Saints Of Newark,25 sep,English
+64,Sardar Udham Singh,2 oct,Hindi
+65,Jayeshbhai Jordaar,2 oct,Hindi
+66,Satyameva Jayate 2,2 oct,Hindi
+67,Halloween Kills,16 oct,English
+68,The Big Bull,23 oct,Hindi
+69,K.G.F. Chapter 2,23 oct,Kannada
+70,Black Widow,6 nov,"Hindi, "
+71,Ab Har Dayara Tutega,6 nov,Hindi
+72,The Eternals,6 nov,English
+73,Prithviraj,13 nov,Hindi
+74,The Third Hacker,13 nov,Hindi
+75,Deep Water,13 nov,English
+76,Red Notice,13 nov,English
+77,Godzilla Vs Kong,20 nov,English
+78,Soul,20 nov,English
+79,Raya & The Last Dragon,25 nov,English
+80,Clifford The Big Red Dog,27 nov,English
+81,King Richard,27 nov,English
+82,Brahmastra,4 dec,"Hindi, "
+83,Aaha,6 dec,Malayalam
+84,Maidaan,11 dec,"Hindi, "
+85,The Croods 2,18 dec,English
+86,Dune,18 dec,English
+87,West Side Story,18 dec,English
+88,Life on a Bicycle,25 dec,Hindi
+89,The Tomorrow War,25 dec,English
+90,Tonic,25 dec,Bengali
+91,Mr. Lele,1 jan,Hindi
+92,Ek Villain 2,8 jan,Hindi
+93,RRR,8 jan,"Hindi, "
+94,The Last Duel,8 jan,English
+95,Coming 2 America,8 jan,English
+96,Peter Rabbit 2: The Runaway,15 jan,"Hindi, "
+97,Bachchan Pandey ,22 jan,Hindi
+98,Shabaash Mithu,5 feb,Hindi
+99,Shang-Chi and the Legend of the Ten Rings,12 feb,English
+100,Ron's Gone Wrong,26 feb,English
+101,Ghostbusters: Afterlife,5 mar,English
+102,Foster,5 mar,English
+103,Morbius,19 mar,English
+104,Masters Of The Universe,21 mar,English
+105,The Boss Baby 2,26 mar,English
+106,Bell Bottom,2 apr,Hindi
+107,Fast and Furious 9,2 apr,"Hindi, "
+108,Fast and Furious 10,2 apr,English
+109,Manje Bistre 3,9 apr,Punjabi
+110,Indian 2,14 apr,Tamil
+111,Kabhi Eid Kabhi Diwali,13 may,Hindi
+112,In the Heights,18 jun,English
+113,Venom: Let There Be Carnage,25 jun,English
+114,Indiana Jones 5,9 jul,English
+115,Avatar 2,17 dec,English
+116,Black Adam,22 dec,English
+117,Aquaman 2,16 dec,English
+118,Marakkar: Lion of the Arabian Sea,2020,Hindi
+119,Mulan,2020,English
+120,Ponmagal Vandhal,2020,Tamil
+121,Naa Peru Raja,2020,Telugu
+122,V (Telugu),2020,Telugu
+123,30 Rojullo Preminchadam Ela,2020,Telugu
+124,Amrutha Ramam,2020,Telugu
+125,Orey Bujji Ga,2020,Telugu
+126,Laddu,2020,Kannada
+127,Marakkar: Arabikadalinte Simham,2020,"Kannada, "
+128,Yaar Anmulle Returns,2020,Punjabi
+129,Ramrajya,2020,Hindi
+130,Barbie,2020,English
+131,Rang De,2020,Telugu
+132,Love Story,2020,Telugu
+133,Naarappa,2020,Telugu
+134,Navy Day,2020,Hindi
+135,Bob Biswas,2020,Hindi
+136,Tauba Tera Jalwa,2020,Hindi
+137,Hawa Singh,2020,Hindi
+138,Kaathuvaakula Rendu Kaadhal,2020,Tamil
+139,Time Illa,2020,Tamil
+140,The World of #NC19,2020,Telugu
+141,Mosagallu,2020,Telugu
+142,YeRe YeRe Pavsa,2020,Marathi
+143,Bela Shuru,2020,Bengali
+144,June,2020,Marathi
+145,Doosra,2020,Hindi
+146,Ninna Sanihake,2020,Kannada
+147,Chase,2020,Kannada
+148,Amruth Apartments,2020,Kannada
+149,Pogaru,2020,Kannada
+150,Trivikrama,2020,Kannada
+151,Kurup,2020,Malayalam
+152,Time To Dance,2020,Hindi
+153,Gambit,2020,"Hindi, "
+154,Rajabheema,2020,Tamil
+155,Mumbai Saga,2020,Hindi
+156,Baap Re Baap,2020,Hindi
+157,Durgavati,2020,Hindi
+158,Ondu Ghanteya Kathe,2020,Kannada
+159,My Spy,2020,English
+160,Pandrikku Nadri Solli,2020,Tamil
+161,Seetimaarr,2020,Telugu
+162,Basta,2020,Marathi
+163,Moksha,2020,Kannada
+164,Mass Power,2020,Telugu
+165,Sreekaram,2020,Telugu
+166,Mdhuravada,2020,Telugu
+167,Preethi Irabaradhey,2020,Kannada
+168,Mirugaa,2020,Tamil
+169,Lokkhi Chhele,2020,Bengali
+170,The Kashmir Files,2020,Hindi
+171,Aham Brahmasmi,2020,"Hindi, "
+172,Thamezharasan,2020,Tamil
+173,Rashmi Rocket,2020,Hindi
+174,The New Mutants,2020,"Hindi, "
+175,Haathi Mere Saathi,2020,Hindi
+176,Sandeep Aur Pinky Faraar,2020,Hindi
+177,Harshali,2020,Hindi
+178,Misbehaviour,2020,English
+179,The Personal History of David Copperfield,2020,English
+180,The Secret: Dare to Dream,2020,English
+181,A Quiet Place - Part 2,2020,English
+182,O ,2020,"Tamil, "
+183,Arasiyalla Idhellam Saadharanam appa,2020,Tamil
+184,Vajvuya Band Baja,2020,Marathi
+185,Email Female,2020,Marathi
+186,Panghrun,2020,Marathi
+187,Gaav Pudhe Aahe,2020,Marathi
+188,Thurthu Nirgamana,2020,Kannada
+189,Kademane,2020,Kannada
+190,NaakuMukha,2020,Kannada
+191,Chhotu 2,2020,Gujarati
+192,Pyar Ho Gail Zahar,2020,Bhojpuri
+193,I Know You,2020,Hindi
+194,Boomerang,2020,Telugu
+195,Yuvarathnaa,2020,Kannada
+196,RUN 2,2020,Kannada
+197,Goreyan Nu Daffa Karo 2,2020,Punjabi
+198,Saumya Ganesh,2020,Hindi
+199,Dhaakad,2020,Hindi
+200,Suraj Pe Mangal Bhari,2020,Hindi
+201,Antlers,2020,English
+202,Aranya,2020,Telugu
+203,ILU-ILU,2020,Marathi
+204,Satarcha Salman,2020,Marathi
+205,Bhayam,2020,Hindi
+206,Chandrabati Kotha,2020,Bengali
+207,Sherni,2020,Hindi
+208,The Nightingale,2020,English
+209,Lost Girls,2020,English
+210,Tera Yaar Hoon Main,2020,Hindi
+211,Irena Sendler,2020,English
+212,The French Dispatch,2020,English
+213,Kakababur Protyaborton,2020,Bengali
+214,Love Story(Bengali),2020,Bengali
+215,Bole Chudiyan,2020,Hindi
+216,Superstar (Hindi),2020,Hindi
+217,Dahi Cheeni,2020,Hindi
+218,A Simple Favor,2020,English
+219,The Disappointments Room,2020,English
+220,Terminal,2020,English
+221,The Little Mermaid,2020,English
+222,Puzzle,2020,English
+223,Bad Times At The El Royale,2020,English
+224,Slender Man,2020,English
+225,Kin,2020,English
+226,I Kill Giants,2020,English
+227,Night School,2020,English
+228,The First Purge,2020,English
+229,Dhruva Natchathiram,2020,Tamil
+230,Melobba Maayaavi,2020,Kannada
+231,Ranganayaka,2020,Kannada
+232,Bilal,2020,Malayalam
+233,Sannyasi Deshonayok,2020,Bengali
+234,Hillbilly Elegy,2020,English
+235,Nightmare Alley,2020,English
+236,Ramprasad Ki Tehrvi,2020,Hindi
+237,Khottay Sikkay,2020,Hindi
+238,Mimi,2020,Hindi
+239,Chappad Phaad Ke,2020,Hindi
+240,F2,2020,Hindi
+241,Teefa In Trouble,2020,Hindi
+242,Firrkie,2020,Hindi
+243,Tom Dick and Harry Returns,2020,Hindi
+244,Saina,2020,Hindi
+245,Aankh Micholi,2020,Hindi
+246,Definition of Fear,2020,English
+247,The Mustang,2020,English
+248,Tully,2020,English
+249,A Kid Like Jake,2020,English
+250,Friends In Law,2020,"English, "
+251,A Wrinkle in Time,2020,English
+252,Sherlock Gnomes,2020,English
+253,Crooked House,2020,English
+254,Gotti,2020,English
+255,The Front Runner,2020,English
+256,The Vanishing,2020,English
+257,Vice,2020,English
+258,The Favourite,2020,English
+259,No Time To Die,2020,English
+260,Serenity,2020,English
+261,The Hate U Give,2020,English
+262,Blaze,2020,English
+263,Sangamithra,2020,Tamil
+264,Shakthi,2020,Tamil
+265,Vanangamudi,2020,Tamil
+266,Iravaakaalam,2020,Tamil
+267,The Mosquito Philosophy,2020,Tamil
+268,Nungambakkam,2020,Tamil
+269,Yaar Ivargal,2020,Tamil
+270,China,2020,Tamil
+271,Vaan,2020,Tamil
+272,Maara,2020,Tamil
+273,R.K. Nagar,2020,Tamil
+274,Aramm 2,2020,Tamil
+275,Adraa Raja Adidaa Nature Is Watching,2020,Tamil
+276,Maragatha Kaadu,2020,Tamil
+277,Thevar Magan 2,2020,Tamil
+278,Paris Paris,2020,Tamil
+279,Naan Sathiriyan,2020,Tamil
+280,Mookuthi Amman,2020,Tamil
+281,Sethum Aayiram Pon,2020,Tamil
+282,Rocketry,2020,Tamil
+283,Aakasham Nee Haddhu Ra,2020,Telugu
+284,Anukoni Athidhi,2020,Telugu
+285,Serial Killer,2020,Telugu
+286,Sasi Lalitha,2020,"Telugu, "
+287,Nuvvevaru,2020,Telugu
+288,Lalijo Lalijo,2020,Telugu
+289,Good Bad Ugly,2020,Telugu
+290,Evadra Hero,2020,Telugu
+291,That is Mahalakshmi,2020,Telugu
+292,Paani,2020,Marathi
+293,Monsoon Football,2020,"Marathi, "
+294,15 August,2020,Marathi
+295,Vitthala Vitthala,2020,Marathi
+296,Dimakhilal,2020,Marathi
+297,Divyang,2020,Marathi
+298,Titvi-A Bright Hope,2020,Marathi
+299,Aakrandan,2020,Marathi
+300,Nagarjuna,2020,Kannada
+301,Dhwaja,2020,Kannada
+302,Kaalachakra,2020,Kannada
+303,Butterfly,2020,Kannada
+304,Nakshe,2020,Kannada
+305,Tesla,2020,Kannada
+306,Sleeplessly Yours,2020,Malayalam
+307,Kaaliyan,2020,Malayalam
+308,Veerapakru,2020,Malayalam
+309,Arabikkadalinte Rani - The Metro Woman,2020,Malayalam
+310,Zam Zam,2020,Malayalam
+311,Proud To Be A Sikh 3,2020,Punjabi
+312,Senapati,2020,Bengali
+313,Jete Nahi Dibo,2020,Bengali
+314,Pass Na Pass,2020,Gujarati
+315,Hamar Mission Hamar Banaras,2020,Bhojpuri
+316,Mil Gaili Chandaniya,2020,Bhojpuri
+317,Dehati Lakhera No 1,2020,Bhojpuri
+318,Yubi Lukpi,2020,Hindi
+319,Blockers,2020,English
+320,Raakshasaru,2020,Kannada
+321,Shrunk,2020,English
+322,Teddy,2020,Tamil
+323,Goodachari 2,2020,Telugu
+324,Garudaksha,2020,Kannada
+325,Avatar Purusha,2020,Kannada
+326,Aviyal,2020,Malayalam
+327,Mango Talkies,2020,Hindi
+328,Dim Dip,2020,Tamil
+329,Vakeel Saab,2020,Telugu
+330,Asalu Em Jarigindhante,2020,Telugu
+331,MRP,2020,Kannada
+332,Billa Ranga Baashaa,2020,Kannada
+333,Tejas,2020,Hindi
+334,Everybody's Talking About Jamie,2020,English
+335,Ichata Vahanamulu Nilupa Radu,2020,Telugu
+336,Dhehi,2020,Kannada
+337,Sumesh & Ramesh,2020,Malayalam
+338,Backpackers,2020,Malayalam
+339,Imali,2020,Hindi
+340,Murder at Koh E Fiza,2020,Hindi
+341,Tadkaa,2020,Hindi
+342,Swagat Hain,2020,Hindi
+343,Jio Baccho,2020,Hindi
+344,Ghoomketu,2020,Hindi
+345,Dare and Lovely,2020,Hindi
+346,A Biopic from the Film Industry,2020,Hindi
+347,Mahavir Karna,2020,Hindi
+348,Shakeela: Biopic,2020,Hindi
+349,Sarfarosh 2,2020,Hindi
+350,Father's Day,2020,Hindi
+351,Inshallah,2020,Hindi
+352,Tuesdays And Saturdays,2020,Hindi
+353,My Name is Raga,2020,Hindi
+354,Ae Kaash Ke Hum,2020,Hindi
+355,Gustakhiyan,2020,Hindi
+356,Kanoon Ke Khiladi,2020,Hindi
+357,Badmash Rowdy,2020,Hindi
+358,Coat,2020,Hindi
+359,Podi Mass,2020,"Hindi, "
+360,Sar Car Ki Seva Mei,2020,Hindi
+361,Hum Bhi Akele Tum Bhi Akele,2020,Hindi
+362,Incredible India,2020,Hindi
+363,MAJOR,2020,"Hindi, "
+364,Chanda Mama Door Ke,2020,Hindi
+365,Jhund,2020,Hindi
+366,Atrangi Re,2020,Hindi
+367,Dostana 2,2020,Hindi
+368,Shiddat Journey Beyond Love,2020,Hindi
+369,10 Nahi 40,2020,Hindi
+370,The Pushkar Lodge,2020,Hindi
+371,Taish,2020,Hindi
+372,Womaniya,2020,Hindi
+373,Hawayein,2020,Hindi
+374,Cowboy Ninja Viking,2020,English
+375,ELI,2020,English
+376,Winchester,2020,English
+377,"I, Tonya",2020,English
+378,Proud Mary,2020,English
+379,He's Out There,2020,English
+380,Polaroid,2020,English
+381,Father Figures,2020,English
+382,Under the Silver Lake,2020,English
+383,On the Basis of Sex,2020,English
+384,I Am The Night,2020,English
+385,Widows,2020,English
+386,What They Had,2020,English
+387,Unfriended: Dark Web,2020,English
+388,The Sun Is Also A Star,2020,English
+389,Kursk,2020,English
+390,The Kid Who Would Be King,2020,English
+391,According To Matthew,2020,English
+392,Million Dollar Nomad,2020,English
+393, Life of the Party,2020,English
+394,"Roman J. Israel, Esq.",2020,English
+395,Reprisal,2020,English
+396,Free Dance,2020,English
+397,The Disaster Artist,2020,English
+398,The Call Of The Wild,2020,English
+399,The Turning,2020,English
+400,Underwater ,2020,English
+401,The Secret Garden,2020,English
+402,Ordinary Love,2020,English
+403,Scoob!,2020,English
+404,Kings,2020,English
+405,Disobedience,2020,English
+406,Roam Rome Mein,2020,"English, "
+407,Missing Link,2020,English
+408,Colette,2020,English
+409,Playmobil: The Movie,2020,English
+410,Captive State,2020,English
+411,The House of Tomorrow,2020,English
+412,We Didn't Kill Mia,2020,English
+413,The Fountainhead,2020,English
+414,The Little Stranger,2020,English
+415,The Wedding Year,2020,English
+416,White Boy Rick,2020,English
+417,Penguin,2020,Tamil
+418,Sinamkol,2020,Tamil
+419,Jail,2020,Tamil
+420,Paandi Muni,2020,Tamil
+421, Ka -The Forest,2020,Tamil
+422,Vairii,2020,Tamil
+423, Adho Andha Paravai Pola,2020,Tamil
+424,Kuttrapayirchi,2020,Tamil
+425,Porukkies,2020,Tamil
+426,Party,2020,Tamil
+427,IPC 376,2020,Tamil
+428,Kumki 2,2020,Tamil
+429,Sabash Naidu,2020,Tamil
+430,Dhaganam,2020,Tamil
+431,Peipasi,2020,Tamil
+432,Ranga ,2020,Tamil
+433,Katteri,2020,Tamil
+434,Kavalthurai Ungal Nanban,2020,Tamil
+435,Plan Panni Pannanum,2020,Tamil
+436,Enakku Onnu Therinjaakanum,2020,Tamil
+437,Annaatthe,2020,Tamil
+438,Cinderella,2020,Tamil
+439,Mahanayakan,2020,Tamil
+440,Thedu,2020,Tamil
+441,Server Sundaram,2020,Tamil
+442,MMOF,2020,"Tamil, "
+443,Vaazhkaiya Thedi Naanum Ponen,2020,Tamil
+444,Para Para Para,2020,Tamil
+445,Panni Kutty,2020,Tamil
+446,Kettavannu Peredutha Nallavanda,2020,Tamil
+447,Maha,2020,Tamil
+448,Hero Heroine,2020,Telugu
+449,Cobra,2020,"Telugu, "
+450,Veeramadevi,2020,Telugu
+451,Uppena,2020,Telugu
+452,Virataparvam,2020,Telugu
+453,A1 Express,2020,Telugu
+454,Student of the Year (Telugu),2020,Telugu
+455,Samharini,2020,Telugu
+456,47 Days,2020,Telugu
+457,Takkari Donga Chakkani Chukka,2020,Telugu
+458,Tuck Jagadish,2020,Telugu
+459,Bombhaat,2020,Telugu
+460,Vittalwadi,2020,Telugu
+461,Viswadarshanam,2020,Telugu
+462,Ala,2020,Telugu
+463,Thota Bavi,2020,Telugu
+464,Gatham,2020,Telugu
+465,15th August,2020,Marathi
+466,Tendlya,2020,Marathi
+467,Preetam,2020,Marathi
+468,Hora,2020,Marathi
+469,Salman Society,2020,Marathi
+470,Iblis,2020,Marathi
+471,Hridayi Vasant Phultana,2020,Marathi
+472,Akrandan ,2020,Marathi
+473,Rajan,2020,Marathi
+474,Sangat ,2020,Marathi
+475,De Dhakka 2,2020,Marathi
+476,U Turn 2,2020,Kannada
+477,Salaga,2020,Kannada
+478,Garuda,2020,Kannada
+479,Rakkam,2020,Kannada
+480, Thirugso Meese,2020,Kannada
+481,Home Minister,2020,Kannada
+482,Real Estate,2020,Kannada
+483,Chowki,2020,Kannada
+484,Ambani Putra,2020,Kannada
+485,Puraave,2020,Kannada
+486,Phantom,2020,Kannada
+487,Pursothrama,2020,Kannada
+488,Arishadvarga,2020,Kannada
+489,April,2020,Kannada
+490,2403ft.,2020,Malayalam
+491,Apara Sundara Neelakasham,2020,Malayalam
+492,Eval Gopika,2020,Malayalam
+493,Kottayam Kunjachan 2,2020,Malayalam
+494,Toll Gate,2020,Malayalam
+495,Innumuthal,2020,Malayalam
+496,Padmini,2020,Malayalam
+497,Veerappan,2020,Malayalam
+498,Jallianwala Bagh,2020,Malayalam
+499,Nanak,2020,Punjabi
+500,Television,2020,Punjabi
+501,Jhanu Goyenda,2020,Bengali
+502,Das Da,2020,Bengali
+503,Bhotbhoti,2020,Bengali
+504,Shobdo Jobdo,2020,Bengali
+505,Dadagiri,2020,Bengali
+506,Gujjubhai 3,2020,Gujarati
+507,Mr. Jasoos,2020,Gujarati
+508,The Reunions,2020,Gujarati
+509,Mati Helo Pade Re ,2020,Rajasthani
+510,Rajkumar,2020,Bhojpuri
+511,Veer Yodha-Mahabali,2020,Bhojpuri
+512,Chuskit,2020,Ladakhi
+513,Munnabhai 3,2020,Hindi
+514,Krrish 4,2020,Hindi
+515,Zehan,2020,Hindi
+516,Dr. Abdul Kalam,2020,Hindi
+517,Gyarah,2020,Hindi
+518,Aankhen 2,2020,Hindi
+519,Love in Tokyo,2020,Hindi
+520,Sons of Sardar: Battle of Saragarhi,2020,Hindi
+521,Kick 2,2020,Hindi
+522,Brij Mohan Amar Rahe,2020,Hindi
+523,Sapna Didi,2020,Hindi
+524,Gulab Jamun,2020,Hindi
+525,Mogul,2020,Hindi
+526,Song of Scorpions,2020,Hindi
+527,Cargo,2020,Hindi
+528,Teen Aur Aadha,2020,Hindi
+529,Jasmine,2020,Hindi
+530,Indira- The Movie,2020,Hindi
+531,Sher Khan,2020,Hindi
+532,Paani,2020,Hindi
+533,The Storyteller ,2020,Hindi
+534,"Police Channel: Raman Raghav, A City, A Killer",2020,Hindi
+535,Ganit,2020,Hindi
+536,Aapkey Kamre Mein Koi Rehta Hai,2020,Hindi
+537,Ye Saccha Swabhimaan Sahi Sangharsh,2020,Hindi
+538,Lihaaf: The Quilt,2020,Hindi
+539,Bhonsle,2020,Hindi
+540,Dancing Dad,2020,Hindi
+541,Campus,2020,Hindi
+542,Waah Zindagi,2020,Hindi
+543,T For Taj Mahal,2020,Hindi
+544,Blockbuster,2020,Hindi
+545,Radha Kyun Gori Main Kyun Kaala,2020,Hindi
+546,Yeh Hai Paranormal Ishq,2020,Hindi
+547,Gaalib,2020,Hindi
+548,Kya Tum,2020,Hindi
+549,Saare Jahaan Se Achcha,2020,Hindi
+550,Gunjan Saxena,2020,Hindi
+551,Sridevi Bungalow,2020,Hindi
+552,Fauji Calling,2020,Hindi
+553,Talvar 2,2020,Hindi
+554,Bamfaad,2020,Hindi
+555,Madhubani,2020,Hindi
+556,Main Jahan Rahoon,2020,Hindi
+557,Adventures of Srimannarayana,2020,Hindi
+558,Satte Pe Satta,2020,Hindi
+559,Pareeksha,2020,Hindi
+560,Khuda Hafiz,2020,Hindi
+561,Shootout At Kanpur,2020,Hindi
+562,Ek Andar Do Bahar,2020,Hindi
+563,Romeo Idiot Desi Juliet,2020,Hindi
+564,Zinda Shaheed,2020,Hindi
+565,99 Songs,2020,Hindi
+566,Attack,2020,Hindi
+567,Mujhse Bura Na Koi,2020,Hindi
+568,Dance Bar,2020,Hindi
+569,Slumdog Karodpati,2020,Hindi
+570,Code Name Abdul,2020,Hindi
+571,Bedhab,2020,Hindi
+572,Mann Bairagi,2020,Hindi
+573,Enough is Enough,2020,Hindi
+574,Wanton,2020,Hindi
+575,Laal Singh Chaddha,2020,Hindi
+576,Black Bud,2020,Hindi
+577,The Wedding Guest,2020,English
+578,Our House ,2020,English
+579,All Nighter,2020,English
+580,MA,2020,English
+581,War On Everyone,2020,English
+582,Battle Of The Sexes,2020,English
+583,The Wall,2020,English
+584,The Shadow Within,2020,English
+585,The Ottoman Lieutenant,2020,English
+586,Phoenix Forgotten,2020,English
+587,Holmes and Watson,2020,English
+588,Snatched,2020,English
+589,Personal Shopper,2020,English
+590,Wingmen,2020,English
+591,Black Butterfly,2020,English
+592,Sheene,2020,English
+593,Keep Watching,2020,English
+594,The Shack,2020,English
+595,The Force,2020,English
+596,Call Me by Your Name,2020,English
+597,Cadaver,2020,English
+598,Upgrade,2020,English
+599,Superfly,2020,English
+600,Breakthrough,2020,English
+601,Patient Zero,2020,English
+602,"Berlin, I Love You",2020,English
+603,One Little Finger,2020,English
+604,The Last Full Measure,2020,English
+605,Stuber,2020,English
+606,Untouchable,2020,English
+607,Madai Thiranthu,2020,Tamil
+608,Paramapadham Vilayattu,2020,Tamil
+609,Kural 388,2020,Tamil
+610,Thandagan,2020,Tamil
+611,Sadhanai Payanam,2020,Tamil
+612,Size 7,2020,Tamil
+613,Sarbath,2020,Tamil
+614,Kutrappayirchi,2020,Tamil
+615,4G,2020,Tamil
+616,Raangi,2020,Tamil
+617,Neeyum Naduvula Peyum,2020,Tamil
+618,Vallavanukkum Vallavan,2020,Tamil
+619,Mariyappan,2020,Tamil
+620,Aiyya Ullan Aiyya,2020,Tamil
+621,Gramophone,2020,Tamil
+622,Takkar,2020,Tamil
+623,IIT Krishnamurthy,2020,Telugu
+624,Bangaru Bullodu,2020,Telugu
+625,Zinga,2020,Telugu
+626,Sadha Nannu Nadipe,2020,Telugu
+627,Eakam,2020,Telugu
+628,Akshara,2020,Telugu
+629,Ugram,2020,Telugu
+630,Suvarna Sundari,2020,Telugu
+631,1945,2020,Telugu
+632,Yesu Kristu Rendava Rakada,2020,Telugu
+633,Ayushman Bhava,2020,Telugu
+634,Nuvvu Evaro Nenu Evaro,2020,Telugu
+635,Gadbad Gondhal,2020,Marathi
+636,Sarsenapati Hambirrao,2020,Marathi
+637,Ekda Kaay Zhala,2020,Marathi
+638,Karaar Premacha,2020,Marathi
+639,Patri Boys,2020,Marathi
+640,Sorry,2020,Marathi
+641,Waaras,2020,Marathi
+642,Virataparva,2020,Kannada
+643,Selfie Mummy Googl Daddy,2020,Kannada
+644,Paagal Premi,2020,Kannada
+645,Ek Love Ya,2020,Kannada
+646,Godhraa,2020,Kannada
+647,Daali,2020,Kannada
+648,Inspector Vikram,2020,Kannada
+649,RAYMO,2020,Kannada
+650,Kotigobba 3,2020,Kannada
+651,BMW,2020,Kannada
+652,Nriti,2020,Kannada
+653,Antagoni Shetty,2020,Kannada
+654,777 Charlie,2020,Kannada
+655,Happy Days (Kannada),2020,Kannada
+656,Nightmare,2020,Kannada
+657,Mysore Diaries,2020,Kannada
+658,Kuberan,2020,Malayalam
+659,Kolaambi,2020,Malayalam
+660,Aadujeevitham,2020,Malayalam
+661,Anizham Thirunal Marthanda Varma-The King of Travancore,2020,Malayalam
+662,Sayanna Varthakal,2020,Malayalam
+663,Randamoozham,2020,Malayalam
+664,Oh! Baby (Malayalam),2020,Malayalam
+665,Shooter,2020,Punjabi
+666,Defaulter,2020,Punjabi
+667,Daddy Cool Munde Fool 2,2020,Punjabi
+668,Ishq Khumari,2020,Punjabi
+669,Gol Gappe,2020,Punjabi
+670,Debi,2020,Bengali
+671,Paran Bandhu Re,2020,Bengali
+672,Amar Akashe Megh Brishti ,2020,Bengali
+673,Swapnajaal,2020,Bengali
+674,Jonaki,2020,Bengali
+675,Unicorn,2020,Bengali
+676,Bobbyr Bondhura,2020,Bengali
+677,Cactus,2020,Bengali
+678,Shororipu 2: Jotugriho,2020,Bengali
+679,Tu Rajee Re,2020,Gujarati
+680,Rabba Ishq Na Hove,2020,Bhojpuri
+681,Herogiri,2020,Bhojpuri
+682,Dil Hamar Mane Na,2020,Bhojpuri
+683,Prem Ki Padhai,2020,Bhojpuri
+684,Rumble,2021,English
+685,Respect,2021,English
+686,Pushpa,2021,"Hindi, "
+687,Puss In Boots 2,2021,English
+688,Go Goa Gone 2,2021,Hindi
+689,The Intern,2021,Hindi
+690,Bharateeyudu 2,2021,Telugu
+691,Jurassic World 3,2021,English
+692,Badhaai Do,2021,Hindi
+693,The Batman,2021,English
+694,Jungle Cruise ,2021,English
+695,Golmaal five,2021,Hindi
+696,Takht,2021,Hindi
